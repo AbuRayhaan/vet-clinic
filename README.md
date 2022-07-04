@@ -1,31 +1,23 @@
-# curriculum-databases-projects-template
+# Vet-Clinic
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+A relational database to create data structures for a Veterinary Clinic. Keeping records of animals, owners, employees and visits Tables.
 
+
+## Built With
+
+- SQL (PostgreSQL)
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+- To get a local copy up and running follow these simple example steps.
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+## Author
 
+👤 **Author**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@AbuRayhaan](https://github.com/AbuRayhaan)
+- Twitter: [@ayinla2011](https://twitter.com/Ayinla2011)
+- LinkedIn: [Adisa Hammed](https://www.linkedin.com/in/hammed-adisa/)
 
 ## 🤝 Contributing
 
