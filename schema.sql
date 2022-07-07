@@ -28,3 +28,5 @@ CREATE TABLE species (
 ALTER TABLE animals DROP column species;
 ALTER TABLE animals ADD column species_id int REFERENCES species(id);
 ALTER TABLE animals ADD column owner_id int REFERENCES owners(id);
+
+--ADD JOIN TABLES FOR VISITS

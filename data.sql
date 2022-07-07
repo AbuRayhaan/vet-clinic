@@ -34,3 +34,5 @@ UPDATE animals SET owner_id = 1 WHERE name = 'Agumon';
 UPDATE animals SET owner_id = 2 WHERE name IN ('Gabumon', 'Pikachu');
 UPDATE animals SET owner_id = 3 WHERE name IN ('Devimon', 'Plantmon');
 UPDATE animals SET owner_id = 4 WHERE name IN ('Charmander', 'Squirtle', 'Blossom');
+
+--ADD JOIN TABLES FOR VISITS

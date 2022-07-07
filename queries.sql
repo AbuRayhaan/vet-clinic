@@ -58,3 +58,5 @@ SELECT animals.name FROM animals JOIN owners ON animals.owner_id = owners.id JOI
 SELECT animals.name FROM animals JOIN owners ON animals.owner_id = owners.id WHERE owners.full_name = 'Dean Winchester' AND animals.escape_attempts = 0 GROUP BY animals.name;
 
 SELECT owners.full_name, COUNT(*) FROM owners JOIN animals ON owners.id = animals.owner_id GROUP BY owners.full_name ORDER BY COUNT(*) DESC LIMIT 1;
+
+--ADD JOIN TABLES FOR VISITS
