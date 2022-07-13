@@ -2,6 +2,7 @@
 
 A relational database to create data structures for a Veterinary Clinic. Keeping records of animals, owners, employees and visits Tables.
 
+![image](Vet_Clinic_Diagram.png)
 
 ## Built With
 
